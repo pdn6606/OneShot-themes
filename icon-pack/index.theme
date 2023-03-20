@@ -2,7 +2,8 @@
 Name=OneShot
 Inherits=Human,Gnome
 Comment=Based on RetroPixel and Pixelitos. Additional icons are provided by @Charpurrr in twitter.
-#Edited by Padster with icons from http://icondock.com/free/mini-pixel-icons.
+#RetroPixel is made by Padster with icons from http://icondock.com/free/mini-pixel-icons.
+#Pixelitos is made by ItzSelenux.
 Directories=scalable/actions,scalable/actions/32x32,scalable/actions/16x16,scalable/apps,scalable/apps/48x48,scalable/apps/32x32,scalable/categories,scalable/categories/32x32,scalable/devices,scalable/devices/32x32,scalable/devices/16x16,scalable/emblems,scalable/emblems/32x32,scalable/mimetypes,scalable/mimetypes/32x32,scalable/mimetypes/16x16,scalable/places,scalable/places/48x48,scalable/places/32x32,scalable/places/16x16,scalable/spinner,scalable/status,scalable/status/32x32
 
 [scalable/actions]
