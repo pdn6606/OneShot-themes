@@ -8,6 +8,7 @@ xfwm4 theme is made by apprehensions (on GitHub).
 - Put the icon-pack folder to ~/.local/share/icons and rename the folder to OneShot (or something else), then select the icon pack from the Appearances settings.
 - Put the gtk.css file to ~/.config/gtk-3.0 (make sure to backup your gtk.css file if it exists) then log out/restart.  
 ## Notes:
-Some of the icon might be left unchanged. If you want to change them, you can either use alacarte (or your favorite menu editor) or add the icons manually to the icon pack.  
+- Some of the icon might be left unchanged. If you want to change them, you can either use alacarte (or your favorite menu editor) or add the icons manually to the icon pack.
+- You may need to adjusts some of the settings for panel and desktop as well.
 ## Preview:
 ![The desktop, with all of the above done, in Linux Mint XFCE environment](https://user-images.githubusercontent.com/31226956/226307052-219ba7a8-f98f-42f1-ba03-167f87c04814.png)
