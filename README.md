@@ -3,7 +3,8 @@ An attempt to recreate the desktop in OneShot: World Machine Edition in XFCE.
 The icon pack is based from Pixelitos and RetroPixel.  
 Some icons are also provided by @Charpurr (on Twitter).  
 xfwm4 theme is made by apprehensions (on GitHub).  
-## Instruction:
+## Instruction:  
+Make sure to switch your environment to XFCE as the theme only work for that environment.
 - Put the xfwm4-theme folder to ~/.local/share/themes and rename the folder to OneShot (or whatever you want), then select the theme from the Window Manager settings.
 - Put the icon-pack folder to ~/.local/share/icons and rename the folder to OneShot (or something else), then select the icon pack from the Appearances settings.
 - Put the gtk.css file to ~/.config/gtk-3.0 (make sure to backup your gtk.css file if it exists) then log out/restart.  
