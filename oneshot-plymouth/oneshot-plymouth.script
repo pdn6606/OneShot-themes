@@ -1,9 +1,11 @@
+window_max.width = Window.GetX() * 2 + Window.GetWidth();
+window_max.height = Window.GetY() * 2 + Window.GetHeight();
 image = Image("img.png");
+scaled = image.Scale(window_max.width, window_max.height);
+pos_x = Window.GetWidth()/2 - scaled.GetWidth()/2;
+pos_y = Window.GetHeight()/2 - scaled.GetHeight()/2;
 
-pos_x = Window.GetWidth()/2 - image.GetWidth()/2;
-pos_y = Window.GetHeight()/2 - image.GetHeight()/2;
-
-sprite = Sprite(image);
+sprite = Sprite(scaled);
 sprite.SetX(pos_x);
 sprite.SetY(pos_y);
 
