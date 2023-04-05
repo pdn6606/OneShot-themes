@@ -4,5 +4,5 @@ Description=The World Machine
 ModuleName=script
 
 [script]
-ImageDir=/usr/share/plymouth/themes/mint-logo
-ScriptFile=/usr/share/plymouth/themes/mint-logo/mint-logo.script
+ImageDir=/usr/share/plymouth/themes/oneshot-plymouth
+ScriptFile=/usr/share/plymouth/themes/oneshot-plymouth/oneshot-plymouth.script
