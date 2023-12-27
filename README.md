@@ -1,3 +1,4 @@
+# This repo is outdated, please check out the new version: https://github.com/pdn6606/TWM-xfce
 # OneShot-themes
 An attempt to recreate the desktop in OneShot: World Machine Edition in XFCE.  
 The icon pack is based from Pixelitos and RetroPixel.  
